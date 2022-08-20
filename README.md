@@ -1,2 +1,2 @@
 # python-data-typed
-data types
+data types and conditional statement
